@@ -1,3 +1,8 @@
 # vidaplena.v2
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/mateusdegrande/vidaplena.v2)
+Integrantes do Grupo 07:
+
+Kauã Carmo Chaves
+Mateus de Grande
+Patrick Branco Campos
+Raul Peracio Martins
